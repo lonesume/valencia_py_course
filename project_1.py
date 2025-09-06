@@ -1,3 +1,12 @@
+# Using PyCharmLinks to an external site. or another IDE of your choosing, 
+# implement a short Python program that utilizes random number generationLinks to an external site.
+# , the modulo operatorLinks to an external site, and
+# at least one operation from the math moduleLinks to an external site..
+# Details beyond this are up to you.
+
+
+
+
 import random
 import math 
 
